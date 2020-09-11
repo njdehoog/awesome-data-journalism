@@ -1,5 +1,5 @@
 # Awesome Data Journalism [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-> A curated list of resources for (aspiring) data journalists
+_A curated list of resources for (aspiring) data journalists_
 
 ## Contents
 * [Books](#books)
