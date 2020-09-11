@@ -14,6 +14,9 @@
 * [The Curious Journalist's Guide to Data](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php) [PDF](https://assets.documentcloud.org/documents/2790871/Curious-Journalist-S-Guide-to-Data.pdf) - On the difficulties of quantifying the world around us, and conveying this information in a meaningful way.
 * [Data Journalism Heist](https://leanpub.com/DataJournalismHeist) - A practical guide to getting started with data journalism.
 
+## Articles
+* [Continue, Pivot, or Put it Down](https://pudding.cool/process/pivot-continue-down/) - The pudding, which does quirky, data-driven stories, explains their process to go from idea to publishing.
+
 ## Online courses
 * [Doing Journalism with Data: First Steps, Skills and Tools](https://datajournalism.com/watch/doing-journalism-with-data-first-steps-skills-and-tools) - Covers everything from finding the right data to telling stories with visualisation.
 * [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Self-directed course led by Alberto Cairo and Simon Rogers.
