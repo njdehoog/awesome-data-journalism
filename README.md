@@ -2,8 +2,10 @@
 > A curated list of resources for (aspiring) data journalists
 
 ## Contents
-* Books
-* Online courses
+* [Books](#books)
+* [Online courses](#online-courses)
+* [Tools](#tools)
+* [Data sources](#data-sources)
 
 ## Books
 * [Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one) - An introduction to data journalism with contributions from many leaders in the field.
