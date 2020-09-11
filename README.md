@@ -16,6 +16,7 @@ _A curated list of resources for (aspiring) data journalists_
 
 ## Articles
 * [Continue, Pivot, or Put it Down](https://pudding.cool/process/pivot-continue-down/) - The pudding, which does quirky, data-driven stories, explains their process to go from idea to publishing.
+* [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/) - A list of common angles for data-driven stories. 
 
 ## Online courses
 * [Doing Journalism with Data: First Steps, Skills and Tools](https://datajournalism.com/watch/doing-journalism-with-data-first-steps-skills-and-tools) - Covers everything from finding the right data to telling stories with visualisation.
