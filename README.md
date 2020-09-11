@@ -3,7 +3,7 @@ _A curated list of resources for (aspiring) data journalists_
 
 ## Contents
 * [Books](#books)
-* [Online courses](#online-courses)
+* [Online courses and tutorials](#online-courses-and-tutorials)
 * [Tools](#tools)
 * [Data sources](#data-sources)
 
@@ -18,10 +18,11 @@ _A curated list of resources for (aspiring) data journalists_
 * [Continue, Pivot, or Put it Down](https://pudding.cool/process/pivot-continue-down/) - The pudding, which does quirky, data-driven stories, explains their process to go from idea to publishing.
 * [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/) - A list of common angles for data-driven stories. 
 
-## Online courses
+## Online courses and tutorials
 * [Doing Journalism with Data: First Steps, Skills and Tools](https://datajournalism.com/watch/doing-journalism-with-data-first-steps-skills-and-tools) - Covers everything from finding the right data to telling stories with visualisation.
 * [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Self-directed course led by Alberto Cairo and Simon Rogers.
 * [Python for Journalists](https://datajournalism.com/watch/python-for-journalists) - Dutch data journalist Winny de Jong explains the most common uses of Python for journalists.
+* [R for Journalists](https://learn.r-journalism.com/en/) - Learn how to use R for data analysis.
 
 ## Tools
 ### Visualisation
