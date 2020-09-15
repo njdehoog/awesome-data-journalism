@@ -36,6 +36,7 @@ _A curated list of resources for (aspiring) data journalists_
 
 ### Miscellaneous
 * [Klaxon](https://github.com/themarshallproject/klaxon) - Get an email when a website changes.
+* [Sherlock](https://github.com/sherlock-project/sherlock) - Track down social media accounts for a username.
 
 ## Data sources
 * [Bellingcat's Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) - An extensive list of resources for finding the information you need.
