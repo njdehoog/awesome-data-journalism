@@ -31,6 +31,7 @@ _A curated list of resources for (aspiring) data journalists_
 * [Datawrapper](https://www.datawrapper.de) - Free tool for creating embeddable charts and maps.
 * [Flourish](https://flourish.studio) - Create charts, maps and interactive stories.
 * [Gephi](https://gephi.org) - Open source visual analysis tool.
+* [QGIS](https://qgis.org/en/site/) - Open source tool for working with geospatial data.
 
 ### Data wrangling
 * [OpenRefine](https://openrefine.org) - An open source tool for cleaning messy data.
