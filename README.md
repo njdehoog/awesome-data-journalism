@@ -11,7 +11,7 @@ _A curated list of resources for (aspiring) data journalists_
 * [Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one) - An introduction to data journalism with contributions from many leaders in the field.
 * [Data Journalism Handbook 2](https://datajournalism.com/read/handbook/two) -  Released as a complement to the first book. It provides a critical look at the practice of data journalism.
 * [The Art and Science of Data-driven Journalism](https://academiccommons.columbia.edu/doi/10.7916/D8Q531V1) - An introduction to the use of data in journalism published by Columbia University.
-* [The Curious Journalist's Guide to Data](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php) [PDF](https://assets.documentcloud.org/documents/2790871/Curious-Journalist-S-Guide-to-Data.pdf) - On the difficulties of quantifying the world around us, and conveying this information in a meaningful way.
+* [The Curious Journalist's Guide to Data](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php) ([PDF](https://assets.documentcloud.org/documents/2790871/Curious-Journalist-S-Guide-to-Data.pdf)) - On the difficulties of quantifying the world around us, and conveying this information in a meaningful way.
 * [Data Journalism Heist](https://leanpub.com/DataJournalismHeist) - A practical guide to getting started with data journalism.
 
 ## Articles
