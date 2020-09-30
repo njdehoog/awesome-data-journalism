@@ -17,6 +17,7 @@ _A curated list of resources for (aspiring) data journalists_
 ## Articles
 * [Continue, Pivot, or Put it Down](https://pudding.cool/process/pivot-continue-down/) - The pudding, which does quirky, data-driven stories, explains their process to go from idea to publishing.
 * [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/) - A list of common angles for data-driven stories. 
+* [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/) - Comprehensive and accessible analysis of different techniques for interactive storytelling.
 * [Applying Racial Equity Awareness in Data Visualization](https://medium.com/@urban_institute/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff) - A guide to inclusivity in data visualization.
 
 ## Online courses and tutorials
