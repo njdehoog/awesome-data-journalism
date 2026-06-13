@@ -38,6 +38,7 @@ _A curated list of resources for (aspiring) data journalists_
 * [OpenRefine](https://openrefine.org) - An open source tool for cleaning messy data.
 
 ### Miscellaneous
+* [Albis](https://www.albis.news/?utm_source=github&utm_medium=catalog&utm_campaign=awesome_data_journalism_njdehoog) - Compare global news coverage and spot stories or context your usual feed may have missed.
 * [Klaxon](https://github.com/themarshallproject/klaxon) - Get an email when a website changes.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Track down social media accounts for a username.
 
