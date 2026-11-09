@@ -38,7 +38,7 @@ _A curated list of resources for (aspiring) data journalists_
 * [OpenRefine](https://openrefine.org) - An open source tool for cleaning messy data.
 
 ### Miscellaneous
-* [Arcmira](https://arcmira.com) - Search indexed YouTube transcripts for source-linked quotes, timestamps and speaker appearances. [API documentation](https://arcmira.com/docs).
+* [Arcmira](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API documentation](https://arcmira.com/docs).
 * [Klaxon](https://github.com/themarshallproject/klaxon) - Get an email when a website changes.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Track down social media accounts for a username.
 
